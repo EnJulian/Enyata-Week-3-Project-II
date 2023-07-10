@@ -35,7 +35,8 @@
 .desktop .nav-bar{
   position: absolute;
   left: 17%;
-  bottom: 1100px;
+  /*bottom: 1100px;*/
+  top: 50px;
 }
 
 .desktop .hero-header {
